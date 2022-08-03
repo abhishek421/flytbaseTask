@@ -106,7 +106,6 @@ function App() {
           >
             @abhishek421
           </a>
-          {boxes[selected]?.y}
         </h2>
       </div>
       <div id="play" className="playground">
